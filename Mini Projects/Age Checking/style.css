@@ -1,0 +1,26 @@
+body {
+    font-family: serif;
+    font-size: 5rem;
+}
+
+.container {
+    width: 500px;
+    height: 300px;
+    margin: auto ;
+    padding: 10px;
+    background-color: bisque;
+    color: black;
+}
+#myInput {
+    width: 250px;
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+}
+#myButton {
+    font-size: 2rem;
+    display: block;
+    margin: auto;
+    margin-bottom: 30px;
+    border-radius: 5px;
+}
